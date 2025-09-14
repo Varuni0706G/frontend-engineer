@@ -14,4 +14,4 @@ Project Structure: The folder contains src/components for UI components, src/sto
 
 Features: Type-safe development with React + TypeScript, Tailwind CSS styling, Storybook documentation, Vitest unit testing, responsive and accessible UI components.
 
-License: MIT License, open source.
+
